@@ -36,5 +36,5 @@ Use it as a note for learning maven
 - mvn package (generate .jar or .war file)
 - mvn install
   ![](./images/Screen%20Shot%202022-04-09%20at%205.36.36%20AM.png)
-- mvn clean
+- mvn clean (remove all the built and test and jar files)
   ![](./images/Screen%20Shot%202022-04-09%20at%205.43.12%20AM.png)

@@ -26,3 +26,13 @@ Use it as a note for learning maven
 ### Maven structure
 
 ![](./images/Screen%20Shot%202022-04-09%20at%204.31.59%20AM.png)
+
+### Maven Phases
+
+![](./images/Screen%20Shot%202022-04-09%20at%205.26.48%20AM.png)
+
+- mvn compile
+- mvn test
+- mvn package (generate .jar or .war file)
+- mvn install
+  ![](./images/Screen%20Shot%202022-04-09%20at%205.36.36%20AM.png)

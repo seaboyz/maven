@@ -14,3 +14,10 @@ Use it as a note for learning maven
 4. 'artifactId': maven(project name)
 5. <packaging>jar</packaging> or <packaging>war</packaging>
    ![](./images/Screen%20Shot%202022-04-09%20at%203.59.50%20AM.png)
+   a. jar for java application
+   b. war for webapp
+
+### Build process
+
+1. mvn compile
+2. mvn package

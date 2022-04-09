@@ -22,3 +22,7 @@ Use it as a note for learning maven
 1. mvn compile
 2. mvn package
 3. java -cp target/maven-1.0-SNAPSHOT.jar com.seaboyz.App (run the java jar file and the class name)
+
+### Maven structure
+
+![](./images/Screen%20Shot%202022-04-09%20at%204.31.59%20AM.png)

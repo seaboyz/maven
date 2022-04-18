@@ -8,7 +8,7 @@ Use it as a note for learning maven
 
 ### Project location folder
 
-1. mvn archetype:generate
+1. `mvn archetype:generate`
 2. (... default)
 3. 'groupId': com.seaboyz(package name)
 4. 'artifactId': maven(project name)
